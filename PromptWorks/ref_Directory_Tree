@@ -1,0 +1,285 @@
+Phils AI World
+ ┣ .obsidian
+ ┃ ┣ plugins
+ ┃ ┃ ┣ yt-video-summarizer
+ ┃ ┃ ┃ ┣ main.js
+ ┃ ┃ ┃ ┣ styles.css
+ ┃ ┃ ┃ ┗ manifest.json
+ ┃ ┃ ┣ obsidian-importer
+ ┃ ┃ ┃ ┣ styles.css
+ ┃ ┃ ┃ ┣ main.js
+ ┃ ┃ ┃ ┗ manifest.json
+ ┃ ┃ ┗ remotely-save
+ ┃ ┃ ┃ ┣ styles.css
+ ┃ ┃ ┃ ┣ main.js
+ ┃ ┃ ┃ ┣ data.json
+ ┃ ┃ ┃ ┣ manifest.json
+ ┃ ┃ ┃ ┗ .gitignore
+ ┃ ┣ core-plugins.json
+ ┃ ┣ page-preview.json
+ ┃ ┣ workspace-mobile.json
+ ┃ ┣ app.json
+ ┃ ┣ graph.json
+ ┃ ┣ community-plugins.json
+ ┃ ┣ appearance.json
+ ┃ ┗ backlink.json
+ ┣ Archive
+ ┣ System_Core
+ ┃ ┣ sys_Mirror_Protocol.md
+ ┃ ┗ sys_PCP_Temporal_Fix.md
+ ┣ PromptWorks
+ ┃ ┣ PromptWorks
+ ┃ ┃ ┗ .obsidian
+ ┃ ┃ ┃ ┣ appearance.json
+ ┃ ┃ ┃ ┣ workspace-mobile.json
+ ┃ ┃ ┃ ┣ app.json
+ ┃ ┃ ┃ ┗ core-plugins.json
+ ┃ ┣ Profile Prints
+ ┃ ┃ ┣ Fiverr
+ ┃ ┃ ┗ UpWork
+ ┃ ┣ About Phil
+ ┃ ┃ ┣ about_Phil_Dawson.md
+ ┃ ┃ ┣ About Phil - Part 3  AI Tools & Business Strategy.md
+ ┃ ┃ ┣ about_Phils_Lunacy projects.md
+ ┃ ┃ ┣ about_Debbie_Dawson.md
+ ┃ ┃ ┣ resume_Phil_Dawson.md
+ ┃ ┃ ┣ Phil's medicine List.md
+ ┃ ┃ ┣ PHIL'S AI CERTIFICATION TRAINING PLAN.md
+ ┃ ┃ ┗ about_Phil_His History.md
+ ┃ ┣ Claude in Chrome
+ ┃ ┃ ┣ template_Gem_Testing_Persona.md
+ ┃ ┃ ┣ CLAUDE FIELD BRIEF .md
+ ┃ ┃ ┣ tool_Gem_Testing_Report_CiC.md
+ ┃ ┃ ┣ tool_Gem_Testing_CiC.md
+ ┃ ┃ ┗ tool_SWM_Test_Chat.md
+ ┃ ┣ SpreadSheets
+ ┃ ┣ Research Documents
+ ┃ ┃ ┣ Older research
+ ┃ ┃ ┣ 2026-04
+ ┃ ┃ ┃ ┣ research_2026-04_2.10_Winning_Work_Intelligence.md
+ ┃ ┃ ┃ ┣ research_2026-04_Free AI Demo Stack for Freelancers.md
+ ┃ ┃ ┃ ┣ research_2026-04_2.13_Self_Hosted_and_Free_AI_Tools.md
+ ┃ ┃ ┃ ┣ research_2026-04_2.8_AI_Training_Platform_Intelligence.md
+ ┃ ┃ ┃ ┣ research_2026-04__Managing Claude Token Usage in 2026 for Solo Operators.md
+ ┃ ┃ ┃ ┣ research_2026-04_2.6_MS_Access_and_Spreadsheet_Market.md
+ ┃ ┃ ┃ ┣ Research_2024-04_1_Prompting_Methods_and_Techniques.md
+ ┃ ┃ ┃ ┣ research_2026-04_The 2026 Freelance Economy  Capital Allocation and....md
+ ┃ ┃ ┃ ┣ research_2026-04_2.12_Niche_Market_Finder.md
+ ┃ ┃ ┃ ┣ research_2026-04_7_AI_User_Experience_and_Community_Feedback (1).md
+ ┃ ┃ ┃ ┣ research_2026-04_3_AI_Model_Landscape_PPX_Version.md
+ ┃ ┃ ┃ ┣ research_2026-04_4_Social_Media_and_Gig_Economy_Trends.md
+ ┃ ┃ ┃ ┣ Research_2026-04_AI Freelance Market Growth Analysis.md
+ ┃ ┃ ┃ ┣ research_2026-04_2.11_Skill_Building_Path.md
+ ┃ ┃ ┃ ┣ ref_AI_Benchmarks_2026.md
+ ┃ ┃ ┃ ┣ research_2026-04__Prompting_Methods_and_Techniques.md
+ ┃ ┃ ┃ ┣ research_2026-04_3_AI_Model_Landscape.md
+ ┃ ┃ ┃ ┣ Research_2026-04_AI Token Saving Strategies.md
+ ┃ ┃ ┃ ┣ research_2026-04_7_AI_User_Experience_and_Community_Feedback.md
+ ┃ ┃ ┃ ┣ research_2026-04_2_Freelance_Platform_Intelligence.md
+ ┃ ┃ ┃ ┣ research_2026_04_5_Client_Communication_Best_Practices.md
+ ┃ ┃ ┃ ┣ Research_2026-04_The Enterprise AI Reality Check  Utilization, Fail....md
+ ┃ ┃ ┃ ┣ research_2026-04_AnythingLLM & Ollama for Business.md
+ ┃ ┃ ┃ ┗ analysis_Claudes Research report.md
+ ┃ ┃ ┗ 2026-03
+ ┃ ┃ ┃ ┣ Copy of ref_DataAnnotation.tech-A Comprehensive Guide-PPX Cleanup.md
+ ┃ ┃ ┃ ┣ ref_AI_Training_and_Gig_Platform_Intelligence_2026-03.md
+ ┃ ┃ ┃ ┣ ref_Freelance_Market_Research__Access_and_Spreadsheets.md
+ ┃ ┃ ┃ ┣ ref_AI User Experience Research Report_2026-03.md
+ ┃ ┃ ┃ ┣ ref_Gig Economy & AI Trends Research_2026-03.md
+ ┃ ┃ ┃ ┣ ref_Freelance Platform & AI Service Trends_2026-03.md
+ ┃ ┃ ┃ ┣ ref_DataAnnotation.tech-A Comprehensive Guide.md
+ ┃ ┃ ┃ ┗ ref_AI Model Landscape Research Task_2026-03.md
+ ┃ ┣ Business Documents
+ ┃ ┃ ┣ ref_Client_Protection_Policy.md
+ ┃ ┃ ┣ ref_Client_Contract_Language.md
+ ┃ ┃ ┣ PROMPT WORKS - DATA SECURITY POLICY.md
+ ┃ ┃ ┣ ref_NVC_Client_Responses.md
+ ┃ ┃ ┗ about_Workflow_and_Rules.md
+ ┃ ┣ Financials
+ ┃ ┃ ┣ ref_PromptWorks Income Tracking .md
+ ┃ ┃ ┗ PromptWorks Orders Tracking.md
+ ┃ ┣ Funny Chat
+ ┃ ┃ ┗ fun_PromptWorks_TeamChat.md
+ ┃ ┣ Gig Work
+ ┃ ┣ Guides
+ ┃ ┣ Projects
+ ┃ ┃ ┗ 2026
+ ┃ ┃ ┃ ┣ 12_December
+ ┃ ┃ ┃ ┣ 08_Auguest
+ ┃ ┃ ┃ ┣ 06_June
+ ┃ ┃ ┃ ┣ 03_March
+ ┃ ┃ ┃ ┣ 10_October
+ ┃ ┃ ┃ ┣ 05_May
+ ┃ ┃ ┃ ┣ 04_April
+ ┃ ┃ ┃ ┣ 09_September
+ ┃ ┃ ┃ ┣ 11_November
+ ┃ ┃ ┃ ┗ 07_July
+ ┃ ┣ Testing Results
+ ┃ ┃ ┗ ShareWithMe
+ ┃ ┃ ┃ ┗ Test Tools and Prompts
+ ┃ ┃ ┃ ┃ ┣ ref_SWM_Treanscript_Analysis.md
+ ┃ ┃ ┃ ┃ ┗ tool_SWM_Chat_analyst.md
+ ┃ ┣ Image Generator
+ ┃ ┃ ┣ rule_Thumbnail Style Guide_Desert_Style.md
+ ┃ ┃ ┗ rule_Thumbnail Style Guide.md
+ ┃ ┣ WORD_GUIDE.md
+ ┃ ┣ CLIENT_ORDER_WORKFLOW_TEMPLATE.md
+ ┃ ┣ ref_PromptWorks_Voice_Persona.md
+ ┃ ┣ Phil's Master To-Do List.md
+ ┃ ┣ tool_Gemini_Research_Prompts.md
+ ┃ ┣ FIVERR SETUP - PROMPT WORKS.md
+ ┃ ┣ ref_AI_Predictions_Explanation.md
+ ┃ ┣ tool_Gemini Monthly Research Prompts.md
+ ┃ ┣ ref_AI Task Capture Protocol.md
+ ┃ ┣ index_Master_List.md
+ ┃ ┣ ref_Alternative_AI_Tools.md
+ ┃ ┣ FILMING SETUP.md
+ ┃ ┣ tool_CiC_Prompts_2026-04-09.md
+ ┃ ┣ Untitled document.md
+ ┃ ┣ UPWORK SETUP - PROMPT WORKS.md
+ ┃ ┗ ref_Directory_Tree
+ ┣ AI Documentation
+ ┃ ┣ rule_Gemini_Output_Rules.md
+ ┃ ┣ rule_Naming_and_Ranking.md
+ ┃ ┣ rule_Validation_Gem_Prompt.md
+ ┃ ┣ rule_DataFilter_Gem_Prompt.md
+ ┃ ┗ tool_Client_Order_Workflow.md
+ ┣ .trash
+ ┃ ┣ Untitled.canvas
+ ┃ ┗ Comprehensive Clinical Review of Psychiatric and Psychological Comorbidities in Myasthenia Gravis.md
+ ┣ Projects
+ ┃ ┣ Phil's AI Chat Party
+ ┃ ┃ ┗ sys_Mirror_Protocol_For_PCP.md
+ ┃ ┣ Kingman
+ ┃ ┃ ┣ City Documents
+ ┃ ┃ ┃ ┣ Zoning Code.md.md
+ ┃ ┃ ┃ ┗ Kingman_General_Plan.md
+ ┃ ┃ ┣ Untitled document.md
+ ┃ ┃ ┗ Zoning Code.md
+ ┃ ┣ RAG Researcher and Document Maker
+ ┃ ┃ ┗ sys_RAG_Researcher.md
+ ┃ ┣ Prompt Creation Machine
+ ┃ ┃ ┣ ref_ReAct Agent Authority Guide for SQL Database Interaction.md
+ ┃ ┃ ┣ PROMPT CREATION GEM - MASTER SYSTEM (v1.md
+ ┃ ┃ ┣ ref_AI Database  SQL Plus User's Guide and Reference .md
+ ┃ ┃ ┣ Untitled document.md
+ ┃ ┃ ┣ ref_Prompt_Engineering_Guide.md
+ ┃ ┃ ┗ ref_Advanced SQL Engineering & Database Architecture Guide.md
+ ┃ ┣ Myasthenia Gravis
+ ┃ ┃ ┣ Old research
+ ┃ ┃ ┃ ┣ Myasthenia Gravis Emergency Management Guide.md
+ ┃ ┃ ┃ ┣ Myasthenic Crisis Action Protocol Development.md
+ ┃ ┃ ┃ ┣ rag_Myasthenia Gravis Patient Care Guidelines.md
+ ┃ ┃ ┃ ┣ Myasthenia Gravis Patient Care Guidelines.md
+ ┃ ┃ ┃ ┣ Myasthenia Gravis  New Treatments Explored.md
+ ┃ ┃ ┃ ┣ Exercising Safely with Myasthenia Gravis.md
+ ┃ ┃ ┃ ┣ Myasthenia Gravis  Comprehensive Information Guide.md
+ ┃ ┃ ┃ ┣ rag_MG_Clinical_Reference_RAG Depersonalized.md
+ ┃ ┃ ┃ ┣ rag_Myasthenia_Gravis.md
+ ┃ ┃ ┃ ┣ rag_Myasthenia Gravis Emergency Management Guide.md
+ ┃ ┃ ┃ ┣ rag_Myasthenic Crisis Action Protocol Development.md
+ ┃ ┃ ┃ ┣ rag_Myasthenia Gravis New Treatments Explored.md
+ ┃ ┃ ┃ ┣ rag_Myasthenia Gravis  Comprehensive Information Guide.md
+ ┃ ┃ ┃ ┣ rag_Exercising Safely with Myasthenia Gravis.md
+ ┃ ┃ ┃ ┗ rag_Comprehensive Clinical Review of Psychiatric and Psychological Comorbidities in Myasthenia Gravis.md
+ ┃ ┃ ┣ Research
+ ┃ ┃ ┃ ┣ rag_Patient_Quality_of_Life.md
+ ┃ ┃ ┃ ┣ rag_MG_Overview.md
+ ┃ ┃ ┃ ┗ rag_MG_Pharmacological Management and Medical Specialty Guide.md
+ ┃ ┃ ┣ Untitled.canvas
+ ┃ ┃ ┗ tool_MG_Trigger_Matrix.md.md
+ ┃ ┣ ShareWithMe
+ ┃ ┃ ┣ PhilGem_Therapies
+ ┃ ┃ ┃ ┣ ARCHIVE
+ ┃ ┃ ┃ ┃ ┣ ref_ACT_Therapy_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Couples_Therapy_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Christian_Science_Psych_Effects.md
+ ┃ ┃ ┃ ┃ ┣ index_Clinical_Protocol_Library.md
+ ┃ ┃ ┃ ┃ ┣ ref_Jungian_Archetype_Glossary.md
+ ┃ ┃ ┃ ┃ ┣ ref_CPTSD_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Stoic_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Contemplative_Mindfulness_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_DBT_Therapy_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Somatic_Polyvagal_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_SFBT_Solution_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_CBT_Therapy_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Psychodynamic_Core_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ meta_sharewithme clinical routing library.md
+ ┃ ┃ ┃ ┃ ┣ ref_IFS_Parts_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Pop_Psych_Frameworks.md
+ ┃ ┃ ┃ ┃ ┣ persona_Therapy-Personas.md
+ ┃ ┃ ┃ ┃ ┣ ref_Motivational_Interviewing_Protocol.md
+ ┃ ┃ ┃ ┃ ┣ ref_Positive_Psychology_Protocol.md
+ ┃ ┃ ┃ ┃ ┗ ref_Motivational_Interviewing_Protocol (1).md
+ ┃ ┃ ┃ ┣ meta_ShareWithMe_Clinical_Routing_Library.md
+ ┃ ┃ ┃ ┣ about_ShareWithMe.gdoc.md
+ ┃ ┃ ┃ ┣ ref_NVC_Communication_Protocol.md
+ ┃ ┃ ┃ ┗ log_ShareWithMe_Sessions.md
+ ┃ ┃ ┣ Prompts and Instructions
+ ┃ ┃ ┃ ┣ sys_Response_Header.md
+ ┃ ┃ ┃ ┣ sys_SWM_Instructions_Main.md
+ ┃ ┃ ┃ ┣ sys_SWM_Companion Identiry.md
+ ┃ ┃ ┃ ┗ sys_Opening_Flow.md
+ ┃ ┃ ┣ about_ShareWithMe.md
+ ┃ ┃ ┣ rule_Banned_Language.md
+ ┃ ┃ ┣ ref_Escalation_Matrix.md
+ ┃ ┃ ┗ ref_Keyword_Triggers_Dictionary.md.md
+ ┃ ┣ KingsGem
+ ┃ ┃ ┣ RAG and DATA
+ ┃ ┃ ┃ ┗ nhl_complete_2025-26_all_players.json.md
+ ┃ ┃ ┣ ref_Advanced Hockey Stats Explained.md
+ ┃ ┃ ┣ sys_KingsGem_Default_Persona.md
+ ┃ ┃ ┗ ref_Advanced Hockey Stats Explained (1).md
+ ┃ ┣ Document Authority Maintainer_Full_MD_Export
+ ┃ ┃ ┣ index_File_List_of_Document_Authority_Maintainer_Notebook_and_Folder.md
+ ┃ ┃ ┣ prompt_DAM_Core_Instructions.md
+ ┃ ┃ ┣ ref_Maintainer_Identity.md
+ ┃ ┃ ┣ ref_Persona_Identity_Glossary.md.md
+ ┃ ┃ ┣ sys_Document_Authority_Maintainer.md
+ ┃ ┃ ┣ template_Authority_Rule_Core.md
+ ┃ ┃ ┣ ref_Maintainer_Folder_Index.md
+ ┃ ┃ ┣ workflow_Deep_Research_Loop.md
+ ┃ ┃ ┗ ref_AI_Ecosystem_Technical_Specs.md
+ ┃ ┣ Image Generator_Full_MD_Export
+ ┃ ┃ ┣ rule_Thumbnail Style Guide_Desert_Style.md
+ ┃ ┃ ┗ rule_Thumbnail Style Guide.md
+ ┃ ┣ PhilGem_Prompts_Full_MD_Export
+ ┃ ┃ ┣ Spreadsheets
+ ┃ ┃ ┣ Analysis & Truth Framework.md
+ ┃ ┃ ┣ YouTube Link Analysis.md
+ ┃ ┃ ┗ tool_Forensic_Researcher.md
+ ┃ ┣ TampermonkeyGorrila_Full_MD_Export
+ ┃ ┃ ┣ ref Efficient Rendering & Virtual DOM.md
+ ┃ ┃ ┣ ref CORS Evasion & Cross-Origin Requests.md
+ ┃ ┃ ┣ ref Shadow DOM Penetration & Iframe Tunneling.md
+ ┃ ┃ ┣ ref GM_Storage & Data Persistence.md
+ ┃ ┃ ┗ ref  DOM Stability & MutationObservers.md
+ ┃ ┣ DebbieGem
+ ┃ ┃ ┣ deb.mdBACKUP
+ ┃ ┃ ┣ User-Profile.json.gdoc
+ ┃ ┃ ┗ Specialist-Modules.json.gdoc
+ ┃ ┗ Markdown
+ ┃ ┃ ┣ Markdown Generator
+ ┃ ┃ ┃ ┗ ref_Markdown_Rulebook.md
+ ┃ ┃ ┣ Markdown RAG Generator
+ ┃ ┃ ┃ ┣ ref_Markdown_Rulebook.md
+ ┃ ┃ ┃ ┣ ref_Markdown_RAG_StandardUntitled.md
+ ┃ ┃ ┃ ┣ ref_RAG_Document_Standard.md
+ ┃ ┃ ┃ ┣ example_RAG_Document.md
+ ┃ ┃ ┃ ┗ template_RAG_Document.md
+ ┃ ┃ ┣ Markdown Document Stitcher
+ ┃ ┃ ┃ ┣ sys_Markdown_Combiner_To_Rag.md
+ ┃ ┃ ┃ ┗ ref_Markdown_Rulebook.md
+ ┃ ┃ ┗ ref_Markdown_Rulebook.md
+ ┣ Knowledge
+ ┃ ┗ persona_Persona List.md
+ ┣ Untitled.base
+ ┣ ref_Markdown_RAG_Standard.docx
+ ┣ PROMPT WORKS - PROJECT DELIVERY CHECKLIST.md
+ ┣ sys_Markdown_Rag_Gen_Instructions.docx
+ ┣ sys_Markdown_Rag_Gen_Instructions.md
+ ┣ template_Master_Document.docx
+ ┣ sys_rulebook_Markdown_For_Rag.docx
+ ┣ PPX Research Prompt Structure by PPX.md
+ ┣ Transportation Master Plan.md
+ ┗ rule_File_Naming_Prefixes_and_Ranking.gdoc
